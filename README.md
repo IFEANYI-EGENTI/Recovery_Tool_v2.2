@@ -163,6 +163,7 @@ Found a bug or want to suggest an improvement? Open an issue on GitHub. Pull req
 
 - **GitHub:** https://github.com/IFEANYI-EGENTI
 - **X (Twitter):** https://x.com/OnyeDot69
+- **Gmail:** projectmafiaofficial3@gmail.com
 
 ---
 
