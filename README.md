@@ -57,7 +57,7 @@ All required tools can be installed automatically by the script if they are miss
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/IFEANYI-EGENTI/IFEANYI-EGENTI_Recovery_Tool_v2.2.git
+git clone https://github.com/IFEANYI-EGENTI/Recovery_Tool_v2.2.git
 ```
 
 ### 2. Navigate into the tool folder
