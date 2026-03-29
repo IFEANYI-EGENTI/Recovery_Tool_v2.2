@@ -63,6 +63,7 @@ git clone https://github.com/IFEANYI-EGENTI/Recovery_Tool_v2.2.git
 ### 2. Navigate into the tool folder
 
 ```bash
+cd Recovery_Tool_v2.2
 cd IFEANYI-EGENTI_Recovery_Tool_v2.2
 ```
 
