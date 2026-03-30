@@ -128,6 +128,41 @@ Every session creates a named folder on your Desktop:
 
 ---
 
+
+---
+
+## 📸 Screenshots
+
+### Tool Banner & Welcome Screen
+![Banner](screenshots/01_banner.png)
+
+### Step 1 — Dependency Check
+![Dependencies](screenshots/02_dependencies.png)
+
+### Step 2 — Drive Detection & Auto-Unmount
+![Drive Detection](screenshots/03_drive_detection.png)
+
+### Step 3 — Session Folder Setup
+![Session Setup](screenshots/04_session_setup.png)
+
+### Step 4 — Drive Analysis
+![Drive Analysis](screenshots/05_drive_analysis.png)
+
+### Step 6 — Bulk Extractor (Silent Background Scan)
+![Bulk Extractor](screenshots/06_bulk_extractor.png)
+
+### Step 7 — Scalpel Video Carving
+![Scalpel](screenshots/07_scalpel.png)
+
+### Step 8 — ffmpeg Video Repair
+![ffmpeg Repair](screenshots/08_ffmpeg_repair.png)
+
+### Step 9 — Completion Banner & Summary
+![Completion](screenshots/09_completion.png)
+
+### Output Folder Structure (Thunar File Manager)
+![Output Folder](screenshots/10_output_folder.png)
+
 ## 💡 Tips for Best Results
 
 - **Do not write anything to the target drive** before recovery — every write reduces the chance of getting files back
