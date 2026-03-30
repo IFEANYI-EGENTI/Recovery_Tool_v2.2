@@ -148,20 +148,23 @@ Every session creates a named folder on your Desktop:
 ### Step 4 — Drive Analysis
 ![Drive Analysis](screenshots/05_drive_analysis.png)
 
+### Step 5 — PhotoRec File Recovery
+![PhotoRec](screenshots/06_photorec.png)
+
 ### Step 6 — Bulk Extractor (Silent Background Scan)
-![Bulk Extractor](screenshots/06_bulk_extractor.png)
+![Bulk Extractor](screenshots/07_bulk_extractor.png)
 
 ### Step 7 — Scalpel Video Carving
-![Scalpel](screenshots/07_scalpel.png)
+![Scalpel](screenshots/08_scalpel.png)
 
 ### Step 8 — ffmpeg Video Repair
-![ffmpeg Repair](screenshots/08_ffmpeg_repair.png)
+![ffmpeg Repair](screenshots/09_ffmpeg_repair.png)
 
 ### Step 9 — Completion Banner & Summary
-![Completion](screenshots/09_completion.png)
+![Completion](screenshots/10_completion.png)
 
 ### Output Folder Structure (Thunar File Manager)
-![Output Folder](screenshots/10_output_folder.png)
+![Output Folder](screenshots/11_output_folder.png)
 
 ## 💡 Tips for Best Results
 
