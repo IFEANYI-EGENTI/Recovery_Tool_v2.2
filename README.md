@@ -141,7 +141,7 @@ Every session creates a named folder on your Desktop:
 
 This tool is intended **exclusively** for lawful data recovery on devices you own or have explicit legal authority to access. Unauthorized use against devices you do not own may constitute a criminal offence.
 
-Please read the full **[Legal Notice & Ethical Use Policy](IFEANYI-EGENTI%20Recovery%20Tool%20v2.2/README.md)** included in the tool folder before use.
+Please read the full **[Legal Notice & Ethical Use Policy](IFEANYI-EGENTI_Recovery_Tool_v2.2/README.md)** included in the tool folder before use.
 
 ---
 
