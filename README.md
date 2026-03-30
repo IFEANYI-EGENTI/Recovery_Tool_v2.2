@@ -4,7 +4,7 @@
 **Author:** Ifeanyi Egenti David
 **GitHub:** [@IFEANYI-EGENTI](https://github.com/IFEANYI-EGENTI)
 **X (Twitter):** [@OnyeDot69](https://x.com/OnyeDot69)
-**Project:** PROJECT MAFIA
+**PROJECT MAFIA**
 
 ---
 
