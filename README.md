@@ -3,7 +3,7 @@
 **Version:** 2.2
 **Author:** Ifeanyi Egenti David
 **GitHub:** [@IFEANYI-EGENTI](https://github.com/IFEANYI-EGENTI)
-**X (Twitter):** [@OnyeDot69](https://x.com/OnyeDot69)
+**X (Twitter):** [@OnyeDot69](https://x.com/PROJECT_IFEANYI)
 **PROJECT MAFIA**
 
 ---
@@ -200,7 +200,7 @@ Found a bug or want to suggest an improvement? Open an issue on GitHub. Pull req
 ## 📬 Contact
 
 - **GitHub:** https://github.com/IFEANYI-EGENTI
-- **X (Twitter):** https://x.com/OnyeDot69
+- **X (Twitter):** https://x.com/PROJECT_IFEANYI
 - **Gmail:** projectmafiaofficial3@gmail.com
 
 ---

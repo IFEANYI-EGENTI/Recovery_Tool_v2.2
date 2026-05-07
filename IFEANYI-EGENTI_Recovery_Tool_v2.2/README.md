@@ -3,7 +3,7 @@
 **Storage Drive Forensic Recovery Tool v2.2**
 **Author:** Ifeanyi Egenti David
 **GitHub:** https://github.com/IFEANYI-EGENTI
-**X (Twitter):** https://x.com/OnyeDot69
+**X (Twitter):** https://x.com/PROJECT_IFEANYI
 **Project:** PROJECT MAFIA
 
 ---
